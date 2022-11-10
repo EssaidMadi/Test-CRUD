@@ -98,3 +98,20 @@
 {"level":"info","message":"Mongo Db Connected.....","timestamp":"2022-11-08T09:51:02.453Z"}
 {"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-11-08T09:51:23.899Z"}
 {"level":"info","message":"Mongo Db Connected.....","timestamp":"2022-11-08T09:51:23.933Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-11-08T15:17:06.748Z"}
+{"level":"info","message":"Mongo Db Connected.....","timestamp":"2022-11-08T15:17:06.773Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-11-08T17:01:07.983Z"}
+{"level":"info","message":"Mongo Db Connected.....","timestamp":"2022-11-08T17:01:08.044Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-11-09T09:34:54.532Z"}
+{"level":"info","message":"Mongo Db Connected.....","timestamp":"2022-11-09T09:34:54.573Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-11-09T14:38:02.314Z"}
+{"level":"info","message":"Mongo Db Connected.....","timestamp":"2022-11-09T14:38:02.338Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-11-09T15:06:46.506Z"}
+{"level":"info","message":"Mongo Db Connected.....","timestamp":"2022-11-09T15:06:46.528Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-11-09T20:59:34.482Z"}
+{"level":"info","message":"Mongo Db Connected.....","timestamp":"2022-11-09T20:59:34.513Z"}
+{"message":"Unexpected token } in JSON at position 95","stack":"SyntaxError: Unexpected token } in JSON at position 95\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\ASUS User\\Desktop\\Project-Folder-exemple\\test-bon-artisant\\backend\\node_modules\\body-parser\\lib\\types\\json.js:89:19)\n    at C:\\Users\\ASUS User\\Desktop\\Project-Folder-exemple\\test-bon-artisant\\backend\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)\n    at invokeCallback (C:\\Users\\ASUS User\\Desktop\\Project-Folder-exemple\\test-bon-artisant\\backend\\node_modules\\raw-body\\index.js:231:16)\n    at done (C:\\Users\\ASUS User\\Desktop\\Project-Folder-exemple\\test-bon-artisant\\backend\\node_modules\\raw-body\\index.js:220:7)\n    at IncomingMessage.onEnd (C:\\Users\\ASUS User\\Desktop\\Project-Folder-exemple\\test-bon-artisant\\backend\\node_modules\\raw-body\\index.js:280:7)\n    at IncomingMessage.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)","expose":true,"statusCode":400,"status":400,"body":"{   \r\n    \"name\": \"JhonWick6\",\r\n    \"email\": \"test25@gmail.com\",\r\n    \"password\": \"password\",\r\n}","type":"entity.parse.failed","level":"error","timestamp":"2022-11-09T22:11:12.780Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-11-09T23:42:27.032Z"}
+{"level":"info","message":"Mongo Db Connected.....","timestamp":"2022-11-09T23:42:27.063Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-11-10T07:07:31.592Z"}
+{"level":"info","message":"Mongo Db Connected.....","timestamp":"2022-11-10T07:07:31.673Z"}
